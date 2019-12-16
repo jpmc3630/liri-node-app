@@ -1,0 +1,1132 @@
+
+Incorrect use. Please include an insruction followed by a query. For example:
+concert-this <artist or band>
+spotify-this-song <song title>
+movie-this <movie title>
+do-what-it-says
+
+
+Incorrect use. Please include an insruction followed by a query. For example:
+concert-this <artist or band>
+spotify-this-song <song title>
+movie-this <movie title>
+do-what-it-says
+
+
+ Searching for track "wuthering heights" on Spotify...
+
+-------------------------------------------
+
+            Spotify Track Search           
+
+-------------------------------------------
+
+Artist(s): Kate Bush
+Track: Wuthering Heights
+From Album: The Kick Inside
+Spotify Preview URL: https://p.scdn.co/mp3-preview/3aaf3ec1603f1f8c9a8b2c5925bcff0319790a5b?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Pat Benatar
+Track: Wuthering Heights
+From Album: Crimes Of Passion
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Kate Bush
+Track: Wuthering Heights - 2018 Remaster
+From Album: The Kick Inside (2018 Remaster)
+Spotify Preview URL: https://p.scdn.co/mp3-preview/0e802578b7d27d022266ed767d302ea9d6ce4cf9?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): EURINGER
+Track: Wuthering Heights
+From Album: EURINGER
+Spotify Preview URL: https://p.scdn.co/mp3-preview/3118be439fc65852dfdb1b3af709676d236c5c42?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Angra
+Track: Wuthering Heights
+From Album: Angels Cry / Holy Land
+Spotify Preview URL: https://p.scdn.co/mp3-preview/b5ae5f8d57429650682cb9fe9e748b9918c60f44?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ryuichi Sakamoto
+Track: The Wuthering Heights
+From Album: 1996
+Spotify Preview URL: https://p.scdn.co/mp3-preview/35d5acc53bde7d92a0a0c3b7b2b12ce47362c39b?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): The Puppini Sisters
+Track: Wuthering Heights
+From Album: Betcha Bottom Dollar
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Lucia
+Track: Wuthering Heights
+From Album: Fantasy Pieces op.2 <ARIA>
+Spotify Preview URL: https://p.scdn.co/mp3-preview/ceaba7a0d700d52c12020433488c3297c891426c?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Piano Peace
+Track: Wuthering Heights
+From Album: Piano Music for Reading
+Spotify Preview URL: https://p.scdn.co/mp3-preview/000afec9f359492beb20f177e05214a20a71be90?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Kate Bush
+Track: Wuthering Heights
+From Album: Classical Guilty Pleasures
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Angra
+Track: Wuthering Heights
+From Album: Angels Cry
+Spotify Preview URL: https://p.scdn.co/mp3-preview/0723a6ae8dcf6cf6d513aca76a7b25d435290924?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Natasha Hemmings
+Track: Wuthering Heights
+From Album: My Valentine EP
+Spotify Preview URL: https://p.scdn.co/mp3-preview/642588fef15076b5e0a38466eec1b372ef06b076?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ruth Barrett
+Track: I Found Peace
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/e9ab7480e0e877fcee1948cd6b1acc7ddf1112fc?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Pat Benatar
+Track: Wuthering Heights - Remastered
+From Album: Synchronistic Wanderings
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Karliene
+Track: Wuthering Heights
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/70535d80a0abc955247abb1e23a1f2ecaac60aaa?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ruth Barrett
+Track: Kids In Love
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/57ebc1f1496934987dc0bc9d5e973bf630f085fd?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ruth Barrett
+Track: Lovers
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/d0e9d4bfa9866642114e62323312b475314b8d14?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Pat Benatar
+Track: Wuthering Heights
+From Album: The Collection
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Ruth Barrett
+Track: She's a Savage
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/0e6a3bbb92681902072cf7dc9e95e8c2c04c8243?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ferrara
+Track: Love Attack
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/1b065e0bf97f07e04196b657b0c46970105b908e?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+
+Searching for movie "escape from la" on OMDB...
+
+-------------------------------------------
+
+             OMDB Movie Search             
+
+-------------------------------------------
+
+
+Title: Escape from L.A.
+Year: 1996
+
+Country: USA
+Language: English
+Actors: Kurt Russell, Steve Buscemi, Peter Fonda, Cliff Robertson
+Plot: Snake Plissken is once again called in by the United States government to recover a potential doomsday device from Los Angeles, now an autonomous island where undesirables are deported.
+
+IMDB Rating: 5.7/10
+Rotten Tomatoes Rating: 52%
+
+
+Searching for movie "escape" on OMDB...
+
+-------------------------------------------
+
+             OMDB Movie Search             
+
+-------------------------------------------
+
+
+Title: Escape from New York
+Year: 1981
+
+Country: USA
+Language: English
+Actors: Kurt Russell, Lee Van Cleef, Ernest Borgnine, Donald Pleasence
+Plot: In 1997, when the U.S. president crashes into Manhattan, now a giant maximum security prison, a convicted bank robber is sent in to rescue him.
+
+IMDB Rating: 7.2/10
+Rotten Tomatoes Rating: 85%
+
+
+Searching for movie "escapeasd" on OMDB...
+
+-------------------------------------------
+
+             OMDB Movie Search             
+
+-------------------------------------------
+
+No results found :(
+
+-------------------------------------------
+
+
+ Searching for "metallica" concerts...
+
+-------------------------------------------
+
+             Upcoming Concerts              
+
+-------------------------------------------
+
+Estadio Nacional Julio Martínez Prádanos - Ñuñoa Chile - 15/04/2020
+
+Argentine Polo Association - Bwp Argentina - 18/04/2020
+
+Arena do Grêmio - Porto Alegre Brazil - 21/04/2020
+
+Couto Pereira Stadium - Curitiba Brazil - 23/04/2020
+
+Casa da Fazenda Morumbi - São Paulo Brazil - 25/04/2020
+
+Mineirão - Belo Horizonte Brazil - 27/04/2020
+
+Charlotte Motor Speedway - Concord United States - 01/05/2020
+
+Charlotte Motor Speedway - Concord United States - 03/05/2020
+
+Daytona International Speedway - Daytona Beach United States - 08/05/2020
+
+Daytona International Speedway - Daytona Beach United States - 10/05/2020
+
+MAPFRE Stadium - Columbus United States - 15/05/2020
+
+MAPFRE Stadium - Columbus United States - 17/05/2020
+
+Kentucky Kingdom - Louisville United States - 18/09/2020
+
+Kentucky Kingdom - Louisville United States - 20/09/2020
+
+Discovery Park - Sacramento United States - 09/10/2020
+
+Discovery Park - Sacramento United States - 11/10/2020
+
+-------------------------------------------
+
+
+
+ Searching for "metallica" concerts...
+
+-------------------------------------------
+
+             Upcoming Concerts              
+
+-------------------------------------------
+
+Estadio Nacional Julio Martínez Prádanos - Ñuñoa Chile - 15/04/2020
+
+Argentine Polo Association - Bwp Argentina - 18/04/2020
+
+Arena do Grêmio - Porto Alegre Brazil - 21/04/2020
+
+Couto Pereira Stadium - Curitiba Brazil - 23/04/2020
+
+Casa da Fazenda Morumbi - São Paulo Brazil - 25/04/2020
+
+Mineirão - Belo Horizonte Brazil - 27/04/2020
+
+Charlotte Motor Speedway - Concord United States - 01/05/2020
+
+Charlotte Motor Speedway - Concord United States - 03/05/2020
+
+Daytona International Speedway - Daytona Beach United States - 08/05/2020
+
+Daytona International Speedway - Daytona Beach United States - 10/05/2020
+
+MAPFRE Stadium - Columbus United States - 15/05/2020
+
+MAPFRE Stadium - Columbus United States - 17/05/2020
+
+Kentucky Kingdom - Louisville United States - 18/09/2020
+
+Kentucky Kingdom - Louisville United States - 20/09/2020
+
+Discovery Park - Sacramento United States - 09/10/2020
+
+Discovery Park - Sacramento United States - 11/10/2020
+
+-------------------------------------------
+
+
+
+Searching for movie "the shawshank" on OMDB...
+
+-------------------------------------------
+
+             OMDB Movie Search             
+
+-------------------------------------------
+
+
+Title: The Shawshank Redemption
+Year: 1994
+
+Country: USA
+Language: English
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+
+IMDB Rating: 9.3/10
+Rotten Tomatoes Rating: 90%
+
+
+Incorrect use. Please include an insruction followed by a query. For example:
+concert-this <artist or band>
+spotify-this-song <song title>
+movie-this <movie title>
+do-what-it-says
+
+
+Incorrect use. Please include an insruction followed by a query. For example:
+concert-this <artist or band>
+spotify-this-song <song title>
+movie-this <movie title>
+do-what-it-says
+
+
+ Searching for "metallica" concerts...
+
+-------------------------------------------
+
+             Upcoming Concerts              
+
+-------------------------------------------
+
+Estadio Nacional Julio Martínez Prádanos - Ñuñoa Chile - 15/04/2020
+
+Argentine Polo Association - Bwp Argentina - 18/04/2020
+
+Arena do Grêmio - Porto Alegre Brazil - 21/04/2020
+
+Couto Pereira Stadium - Curitiba Brazil - 23/04/2020
+
+Casa da Fazenda Morumbi - São Paulo Brazil - 25/04/2020
+
+Mineirão - Belo Horizonte Brazil - 27/04/2020
+
+Charlotte Motor Speedway - Concord United States - 01/05/2020
+
+Charlotte Motor Speedway - Concord United States - 03/05/2020
+
+Daytona International Speedway - Daytona Beach United States - 08/05/2020
+
+Daytona International Speedway - Daytona Beach United States - 10/05/2020
+
+MAPFRE Stadium - Columbus United States - 15/05/2020
+
+MAPFRE Stadium - Columbus United States - 17/05/2020
+
+Kentucky Kingdom - Louisville United States - 18/09/2020
+
+Kentucky Kingdom - Louisville United States - 20/09/2020
+
+Discovery Park - Sacramento United States - 09/10/2020
+
+Discovery Park - Sacramento United States - 11/10/2020
+
+-------------------------------------------
+
+
+
+Incorrect use. Please include an insruction followed by a query. For example:
+concert-this <artist or band>
+spotify-this-song <song title>
+movie-this <movie title>
+do-what-it-says
+
+
+ Searching for "ratatat" concerts...
+
+-------------------------------------------
+
+             Upcoming Concerts              
+
+-------------------------------------------
+
+No results found :(
+
+-------------------------------------------
+
+
+
+ Searching for "paul kelly" concerts...
+
+-------------------------------------------
+
+             Upcoming Concerts              
+
+-------------------------------------------
+
+Making Gravy - Brisbane Australia - 21/12/2019
+
+Glenelg Beach - Glenelg Australia - 04/01/2020
+
+Mt Duneed Estate - Waurn Ponds Australia - 11/01/2020
+
+Paul Kelly in Thirteen Ways To Look At Birds - Launceston Australia - 16/01/2020
+
+Scully Park - West Tamworth Australia - 19/01/2020
+
+Stage 88 - Canberra Australia - 30/01/2020
+
+Paul Kelly in Thirteen Ways To Look At Birds - Perth Australia - 15/02/2020
+
+Paul Kelly in Thirteen Ways To Look At Birds - Mosman Australia - 28/02/2020
+
+-------------------------------------------
+
+
+
+ Searching for track "wuthering heights" on Spotify...
+
+-------------------------------------------
+
+            Spotify Track Search           
+
+-------------------------------------------
+
+Artist(s): Kate Bush
+Track: Wuthering Heights
+From Album: The Kick Inside
+Spotify Preview URL: https://p.scdn.co/mp3-preview/3aaf3ec1603f1f8c9a8b2c5925bcff0319790a5b?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Pat Benatar
+Track: Wuthering Heights
+From Album: Crimes Of Passion
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Kate Bush
+Track: Wuthering Heights - 2018 Remaster
+From Album: The Kick Inside (2018 Remaster)
+Spotify Preview URL: https://p.scdn.co/mp3-preview/0e802578b7d27d022266ed767d302ea9d6ce4cf9?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): EURINGER
+Track: Wuthering Heights
+From Album: EURINGER
+Spotify Preview URL: https://p.scdn.co/mp3-preview/3118be439fc65852dfdb1b3af709676d236c5c42?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Angra
+Track: Wuthering Heights
+From Album: Angels Cry / Holy Land
+Spotify Preview URL: https://p.scdn.co/mp3-preview/b5ae5f8d57429650682cb9fe9e748b9918c60f44?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ryuichi Sakamoto
+Track: The Wuthering Heights
+From Album: 1996
+Spotify Preview URL: https://p.scdn.co/mp3-preview/35d5acc53bde7d92a0a0c3b7b2b12ce47362c39b?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): The Puppini Sisters
+Track: Wuthering Heights
+From Album: Betcha Bottom Dollar
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Lucia
+Track: Wuthering Heights
+From Album: Fantasy Pieces op.2 <ARIA>
+Spotify Preview URL: https://p.scdn.co/mp3-preview/ceaba7a0d700d52c12020433488c3297c891426c?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Piano Peace
+Track: Wuthering Heights
+From Album: Piano Music for Reading
+Spotify Preview URL: https://p.scdn.co/mp3-preview/000afec9f359492beb20f177e05214a20a71be90?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Kate Bush
+Track: Wuthering Heights
+From Album: Classical Guilty Pleasures
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Angra
+Track: Wuthering Heights
+From Album: Angels Cry
+Spotify Preview URL: https://p.scdn.co/mp3-preview/0723a6ae8dcf6cf6d513aca76a7b25d435290924?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Natasha Hemmings
+Track: Wuthering Heights
+From Album: My Valentine EP
+Spotify Preview URL: https://p.scdn.co/mp3-preview/642588fef15076b5e0a38466eec1b372ef06b076?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ruth Barrett
+Track: I Found Peace
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/e9ab7480e0e877fcee1948cd6b1acc7ddf1112fc?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Pat Benatar
+Track: Wuthering Heights - Remastered
+From Album: Synchronistic Wanderings
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Karliene
+Track: Wuthering Heights
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/70535d80a0abc955247abb1e23a1f2ecaac60aaa?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ruth Barrett
+Track: Kids In Love
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/57ebc1f1496934987dc0bc9d5e973bf630f085fd?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ruth Barrett
+Track: Lovers
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/d0e9d4bfa9866642114e62323312b475314b8d14?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Pat Benatar
+Track: Wuthering Heights
+From Album: The Collection
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Ruth Barrett
+Track: She's a Savage
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/0e6a3bbb92681902072cf7dc9e95e8c2c04c8243?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ferrara
+Track: Love Attack
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/1b065e0bf97f07e04196b657b0c46970105b908e?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+
+ Searching for track "mr dobalino" on Spotify...
+
+-------------------------------------------
+
+            Spotify Track Search           
+
+-------------------------------------------
+
+No results found :(
+
+-------------------------------------------
+
+
+ Searching for track "mr dobilino" on Spotify...
+
+-------------------------------------------
+
+            Spotify Track Search           
+
+-------------------------------------------
+
+No results found :(
+
+-------------------------------------------
+
+
+ Searching for track "mr dobilina" on Spotify...
+
+-------------------------------------------
+
+            Spotify Track Search           
+
+-------------------------------------------
+
+No results found :(
+
+-------------------------------------------
+
+
+ Searching for track "mr dobalina" on Spotify...
+
+-------------------------------------------
+
+            Spotify Track Search           
+
+-------------------------------------------
+
+Artist(s): Steve Modana
+Track: Mr. Dobalina - Radio Edit
+From Album: Mr. Dobalina
+Spotify Preview URL: https://p.scdn.co/mp3-preview/cae3488de3821d7486d1500a7c7bbc29e594cd57?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Steve Modana
+Track: Mr. Dobalina - Original Mix
+From Album: Mr. Dobalina
+Spotify Preview URL: https://p.scdn.co/mp3-preview/0a3f77bd30dc5f3a5c27567ccfab6288a30237e9?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Steve Modana
+Track: Mr. Dobalina - Carlprit Radio Edit
+From Album: Mr. Dobalina
+Spotify Preview URL: https://p.scdn.co/mp3-preview/361cfb5adc3aaab0f0816378f39410409887c431?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Steve Modana
+Track: Mr. Dobalina - Sasha Dith Edit
+From Album: Mr. Dobalina
+Spotify Preview URL: https://p.scdn.co/mp3-preview/11c799b9a8878c3c8a42ef1fff00a8891bedd271?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Steve Modana
+Track: Mr. Dobalina - Sasha Dith Remix
+From Album: Mr. Dobalina
+Spotify Preview URL: https://p.scdn.co/mp3-preview/fb6315b1ff53ef804895e59263a0687088845e92?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Steve Modana
+Track: Mr. Dobalina - Carlprit Original Mix
+From Album: Mr. Dobalina
+Spotify Preview URL: https://p.scdn.co/mp3-preview/f2c39ff72ebb45c6710b908f8f230ac82e7588f9?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+
+ Searching for track "wuthering heights" on Spotify...
+
+-------------------------------------------
+
+            Spotify Track Search           
+
+-------------------------------------------
+
+Artist(s): Kate Bush
+Track: Wuthering Heights
+From Album: The Kick Inside
+Spotify Preview URL: https://p.scdn.co/mp3-preview/3aaf3ec1603f1f8c9a8b2c5925bcff0319790a5b?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Pat Benatar
+Track: Wuthering Heights
+From Album: Crimes Of Passion
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Kate Bush
+Track: Wuthering Heights - 2018 Remaster
+From Album: The Kick Inside (2018 Remaster)
+Spotify Preview URL: https://p.scdn.co/mp3-preview/0e802578b7d27d022266ed767d302ea9d6ce4cf9?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): EURINGER
+Track: Wuthering Heights
+From Album: EURINGER
+Spotify Preview URL: https://p.scdn.co/mp3-preview/3118be439fc65852dfdb1b3af709676d236c5c42?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Angra
+Track: Wuthering Heights
+From Album: Angels Cry / Holy Land
+Spotify Preview URL: https://p.scdn.co/mp3-preview/b5ae5f8d57429650682cb9fe9e748b9918c60f44?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ryuichi Sakamoto
+Track: The Wuthering Heights
+From Album: 1996
+Spotify Preview URL: https://p.scdn.co/mp3-preview/35d5acc53bde7d92a0a0c3b7b2b12ce47362c39b?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): The Puppini Sisters
+Track: Wuthering Heights
+From Album: Betcha Bottom Dollar
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Lucia
+Track: Wuthering Heights
+From Album: Fantasy Pieces op.2 <ARIA>
+Spotify Preview URL: https://p.scdn.co/mp3-preview/ceaba7a0d700d52c12020433488c3297c891426c?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Piano Peace
+Track: Wuthering Heights
+From Album: Piano Music for Reading
+Spotify Preview URL: https://p.scdn.co/mp3-preview/000afec9f359492beb20f177e05214a20a71be90?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Kate Bush
+Track: Wuthering Heights
+From Album: Classical Guilty Pleasures
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Angra
+Track: Wuthering Heights
+From Album: Angels Cry
+Spotify Preview URL: https://p.scdn.co/mp3-preview/0723a6ae8dcf6cf6d513aca76a7b25d435290924?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Natasha Hemmings
+Track: Wuthering Heights
+From Album: My Valentine EP
+Spotify Preview URL: https://p.scdn.co/mp3-preview/642588fef15076b5e0a38466eec1b372ef06b076?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ruth Barrett
+Track: I Found Peace
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/e9ab7480e0e877fcee1948cd6b1acc7ddf1112fc?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Pat Benatar
+Track: Wuthering Heights - Remastered
+From Album: Synchronistic Wanderings
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Karliene
+Track: Wuthering Heights
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/70535d80a0abc955247abb1e23a1f2ecaac60aaa?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ruth Barrett
+Track: Kids In Love
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/57ebc1f1496934987dc0bc9d5e973bf630f085fd?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ruth Barrett
+Track: Lovers
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/d0e9d4bfa9866642114e62323312b475314b8d14?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Pat Benatar
+Track: Wuthering Heights
+From Album: The Collection
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Ruth Barrett
+Track: She's a Savage
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/0e6a3bbb92681902072cf7dc9e95e8c2c04c8243?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ferrara
+Track: Love Attack
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/1b065e0bf97f07e04196b657b0c46970105b908e?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+
+Incorrect use. Please include an insruction followed by a query. For example:
+concert-this <artist or band>
+spotify-this-song <song title>
+movie-this <movie title>
+do-what-it-says
+
+
+ Searching for "paul kelly" concerts...
+
+-------------------------------------------
+
+             Upcoming Concerts              
+
+-------------------------------------------
+
+Making Gravy - Brisbane Australia - 21/12/2019
+
+Glenelg Beach - Glenelg Australia - 04/01/2020
+
+Mt Duneed Estate - Waurn Ponds Australia - 11/01/2020
+
+Paul Kelly in Thirteen Ways To Look At Birds - Launceston Australia - 16/01/2020
+
+Scully Park - West Tamworth Australia - 19/01/2020
+
+Stage 88 - Canberra Australia - 30/01/2020
+
+Paul Kelly in Thirteen Ways To Look At Birds - Perth Australia - 15/02/2020
+
+Paul Kelly in Thirteen Ways To Look At Birds - Mosman Australia - 28/02/2020
+
+-------------------------------------------
+
+
+
+ Searching for track "mr dobalina" on Spotify...
+
+-------------------------------------------
+
+            Spotify Track Search           
+
+-------------------------------------------
+
+Artist(s): Steve Modana
+Track: Mr. Dobalina - Radio Edit
+From Album: Mr. Dobalina
+Spotify Preview URL: https://p.scdn.co/mp3-preview/cae3488de3821d7486d1500a7c7bbc29e594cd57?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Steve Modana
+Track: Mr. Dobalina - Original Mix
+From Album: Mr. Dobalina
+Spotify Preview URL: https://p.scdn.co/mp3-preview/0a3f77bd30dc5f3a5c27567ccfab6288a30237e9?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Steve Modana
+Track: Mr. Dobalina - Carlprit Radio Edit
+From Album: Mr. Dobalina
+Spotify Preview URL: https://p.scdn.co/mp3-preview/361cfb5adc3aaab0f0816378f39410409887c431?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Steve Modana
+Track: Mr. Dobalina - Sasha Dith Edit
+From Album: Mr. Dobalina
+Spotify Preview URL: https://p.scdn.co/mp3-preview/11c799b9a8878c3c8a42ef1fff00a8891bedd271?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Steve Modana
+Track: Mr. Dobalina - Sasha Dith Remix
+From Album: Mr. Dobalina
+Spotify Preview URL: https://p.scdn.co/mp3-preview/fb6315b1ff53ef804895e59263a0687088845e92?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Steve Modana
+Track: Mr. Dobalina - Carlprit Original Mix
+From Album: Mr. Dobalina
+Spotify Preview URL: https://p.scdn.co/mp3-preview/f2c39ff72ebb45c6710b908f8f230ac82e7588f9?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+
+Searching for movie "true lies" on OMDB...
+
+-------------------------------------------
+
+             OMDB Movie Search             
+
+-------------------------------------------
+
+
+Title: True Lies
+Year: 1994
+
+Country: USA
+Language: English, French, Arabic, German
+Actors: Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold, Bill Paxton
+Plot: A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used-car salesman while terrorists smuggle nuclear war heads into the United States.
+
+IMDB Rating: 7.2/10
+Rotten Tomatoes Rating: 70%
+
+
+ Searching for track "wuthering heights" on Spotify...
+
+-------------------------------------------
+
+            Spotify Track Search           
+
+-------------------------------------------
+
+Artist(s): Kate Bush
+Track: Wuthering Heights
+From Album: The Kick Inside
+Spotify Preview URL: https://p.scdn.co/mp3-preview/3aaf3ec1603f1f8c9a8b2c5925bcff0319790a5b?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Pat Benatar
+Track: Wuthering Heights
+From Album: Crimes Of Passion
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Kate Bush
+Track: Wuthering Heights - 2018 Remaster
+From Album: The Kick Inside (2018 Remaster)
+Spotify Preview URL: https://p.scdn.co/mp3-preview/0e802578b7d27d022266ed767d302ea9d6ce4cf9?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): EURINGER
+Track: Wuthering Heights
+From Album: EURINGER
+Spotify Preview URL: https://p.scdn.co/mp3-preview/3118be439fc65852dfdb1b3af709676d236c5c42?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Angra
+Track: Wuthering Heights
+From Album: Angels Cry / Holy Land
+Spotify Preview URL: https://p.scdn.co/mp3-preview/b5ae5f8d57429650682cb9fe9e748b9918c60f44?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ryuichi Sakamoto
+Track: The Wuthering Heights
+From Album: 1996
+Spotify Preview URL: https://p.scdn.co/mp3-preview/35d5acc53bde7d92a0a0c3b7b2b12ce47362c39b?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): The Puppini Sisters
+Track: Wuthering Heights
+From Album: Betcha Bottom Dollar
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Lucia
+Track: Wuthering Heights
+From Album: Fantasy Pieces op.2 <ARIA>
+Spotify Preview URL: https://p.scdn.co/mp3-preview/ceaba7a0d700d52c12020433488c3297c891426c?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Piano Peace
+Track: Wuthering Heights
+From Album: Piano Music for Reading
+Spotify Preview URL: https://p.scdn.co/mp3-preview/000afec9f359492beb20f177e05214a20a71be90?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Kate Bush
+Track: Wuthering Heights
+From Album: Classical Guilty Pleasures
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Angra
+Track: Wuthering Heights
+From Album: Angels Cry
+Spotify Preview URL: https://p.scdn.co/mp3-preview/0723a6ae8dcf6cf6d513aca76a7b25d435290924?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Natasha Hemmings
+Track: Wuthering Heights
+From Album: My Valentine EP
+Spotify Preview URL: https://p.scdn.co/mp3-preview/642588fef15076b5e0a38466eec1b372ef06b076?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ruth Barrett
+Track: I Found Peace
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/e9ab7480e0e877fcee1948cd6b1acc7ddf1112fc?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Pat Benatar
+Track: Wuthering Heights - Remastered
+From Album: Synchronistic Wanderings
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Karliene
+Track: Wuthering Heights
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/70535d80a0abc955247abb1e23a1f2ecaac60aaa?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ruth Barrett
+Track: Kids In Love
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/57ebc1f1496934987dc0bc9d5e973bf630f085fd?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ruth Barrett
+Track: Lovers
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/d0e9d4bfa9866642114e62323312b475314b8d14?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Pat Benatar
+Track: Wuthering Heights
+From Album: The Collection
+Spotify Preview URL: null
+
+-------------------------------------------
+
+Artist(s): Ruth Barrett
+Track: She's a Savage
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/0e6a3bbb92681902072cf7dc9e95e8c2c04c8243?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+Artist(s): Ferrara
+Track: Love Attack
+From Album: Wuthering Heights
+Spotify Preview URL: https://p.scdn.co/mp3-preview/1b065e0bf97f07e04196b657b0c46970105b908e?cid=6ea88313affc4e50a3b64b0d1f5f3173
+
+-------------------------------------------
+
+
+Incorrect use. Please include an insruction followed by a query. For example:
+concert-this <artist or band>
+spotify-this-song <song title>
+movie-this <movie title>
+do-what-it-says
+
+
+Searching for movie "the lion king" on OMDB...
+
+-------------------------------------------
+
+             OMDB Movie Search             
+
+-------------------------------------------
+
+
+Title: The Making of 'The Lion King'
+Year: 1994
+
+Country: USA
+Language: English
+Actors: Robert Guillaume, Jeffrey Katzenberg, Roy Edward Disney, Roger Allers
+Plot: Behind the scenes look at the making of The Lion King.
+
+IMDB Rating: 7.8/10
+
+ Searching for "paul kelly" concerts...
+
+-------------------------------------------
+
+             Upcoming Concerts              
+
+-------------------------------------------
+
+Making Gravy - Brisbane Australia - 21/12/2019
+
+Glenelg Beach - Glenelg Australia - 04/01/2020
+
+Mt Duneed Estate - Waurn Ponds Australia - 11/01/2020
+
+Paul Kelly in Thirteen Ways To Look At Birds - Launceston Australia - 16/01/2020
+
+Scully Park - West Tamworth Australia - 19/01/2020
+
+Stage 88 - Canberra Australia - 30/01/2020
+
+Paul Kelly in Thirteen Ways To Look At Birds - Perth Australia - 15/02/2020
+
+Paul Kelly in Thirteen Ways To Look At Birds - Mosman Australia - 28/02/2020
+
+-------------------------------------------
+
+

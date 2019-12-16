@@ -1,0 +1,505 @@
+# The configurations that used for the recording, feel free to edit them
+config:
+
+  # Specify a command to be executed
+  # like `/bin/bash -l`, `ls`, or any other commands
+  # the default is bash for Linux
+  # or powershell.exe for Windows
+  command: bash -l
+  
+  # Specify the current working directory path
+  # the default is the current working directory path
+  cwd: /Users/James/Documents/Coding Bootcamp/repos/liri-node-app
+  
+  # Export additional ENV variables
+  env:
+    recording: true
+  
+  # Explicitly set the number of columns
+  # or use `auto` to take the current
+  # number of columns of your shell
+  cols: 119
+  
+  # Explicitly set the number of rows
+  # or use `auto` to take the current
+  # number of rows of your shell
+  rows: 26
+  
+  # Amount of times to repeat GIF
+  # If value is -1, play once
+  # If value is 0, loop indefinitely
+  # If value is a positive number, loop n times
+  repeat: 0
+  
+  # Quality
+  # 1 - 100
+  quality: 100
+  
+  # Delay between frames in ms
+  # If the value is `auto` use the actual recording delays
+  frameDelay: auto
+  
+  # Maximum delay between frames in ms
+  # Ignored if the `frameDelay` isn't set to `auto`
+  # Set to `auto` to prevent limiting the max idle time
+  maxIdleTime: 2000
+  
+  # The surrounding frame box
+  # The `type` can be null, window, floating, or solid`
+  # To hide the title use the value null
+  # Don't forget to add a backgroundColor style with a null as type
+  frameBox:
+    type: floating
+    title: Terminalizer
+    style:
+      border: 0px black solid
+      # boxShadow: none
+      # margin: 0px
+  
+  # Add a watermark image to the rendered gif
+  # You need to specify an absolute path for
+  # the image on your machine or a URL, and you can also
+  # add your own CSS styles
+  watermark:
+    imagePath: null
+    style:
+      position: absolute
+      right: 15px
+      bottom: 15px
+      width: 100px
+      opacity: 0.9
+  
+  # Cursor style can be one of
+  # `block`, `underline`, or `bar`
+  cursorStyle: block
+  
+  # Font family
+  # You can use any font that is installed on your machine
+  # in CSS-like syntax
+  fontFamily: "Monaco, Lucida Console, Ubuntu Mono, Monospace"
+  
+  # The size of the font
+  fontSize: 12
+  
+  # The height of lines
+  lineHeight: 1
+  
+  # The spacing between letters
+  letterSpacing: 0
+  
+  # Theme
+  theme:
+    background: "transparent"
+    foreground: "#afafaf"
+    cursor: "#c7c7c7"
+    black: "#232628"
+    red: "#fc4384"
+    green: "#b3e33b"
+    yellow: "#ffa727"
+    blue: "#75dff2"
+    magenta: "#ae89fe"
+    cyan: "#708387"
+    white: "#d5d5d0"
+    brightBlack: "#626566"
+    brightRed: "#ff7fac"
+    brightGreen: "#c8ed71"
+    brightYellow: "#ebdf86"
+    brightBlue: "#75dff2"
+    brightMagenta: "#ae89fe"
+    brightCyan: "#b1c6ca"
+    brightWhite: "#f9f9f4"
+  
+# Records, feel free to edit them
+records:
+  - delay: 928
+    content: "\e[?1034hJamess-MBP:liri-node-app James$ "
+  - delay: 6298
+    content: 'n'
+  - delay: 41
+    content: o
+  - delay: 80
+    content: d
+  - delay: 45
+    content: e
+  - delay: 83
+    content: ' '
+  - delay: 672
+    content: l
+  - delay: 176
+    content: i
+  - delay: 95
+    content: r
+  - delay: 73
+    content: i
+  - delay: 1031
+    content: .
+  - delay: 191
+    content: j
+  - delay: 121
+    content: s
+  - delay: 968
+    content: "\r\n"
+  - delay: 369
+    content: "\r\nIncorrect use. Please include an insruction followed by a query. For example:\r\nconcert-this <artist or band>\r\nspotify-this-song <song title>\r\nmovie-this <movie title>\r\ndo-what-it-says\r\n\r\n"
+  - delay: 23
+    content: 'Jamess-MBP:liri-node-app James$ '
+  - delay: 2056
+    content: node liri.js
+  - delay: 624
+    content: ' '
+  - delay: 382
+    content: c
+  - delay: 88
+    content: o
+  - delay: 48
+    content: 'n'
+  - delay: 97
+    content: c
+  - delay: 184
+    content: e
+  - delay: 64
+    content: r
+  - delay: 192
+    content: t
+  - delay: 168
+    content: '-'
+  - delay: 168
+    content: t
+  - delay: 208
+    content: h
+  - delay: 48
+    content: i
+  - delay: 168
+    content: s
+  - delay: 1104
+    content: ' '
+  - delay: 888
+    content: p
+  - delay: 208
+    content: a
+  - delay: 112
+    content: u
+  - delay: 104
+    content: l
+  - delay: 240
+    content: ' '
+  - delay: 79
+    content: k
+  - delay: 208
+    content: e
+  - delay: 120
+    content: l
+  - delay: 98
+    content: l
+  - delay: 191
+    content: 'y'
+  - delay: 640
+    content: "\r\n"
+  - delay: 355
+    content: "\r\n Searching for \"paul kelly\" concerts...\r\n\r\n"
+  - delay: 832
+    content: "-------------------------------------------\r\n\r\n             Upcoming Concerts              \r\n\r\n-------------------------------------------\r\n\r\n"
+  - delay: 16
+    content: "Making Gravy - Brisbane Australia - 21/12/2019\r\n\r\nGlenelg Beach - Glenelg Australia - 04/01/2020\r\n\r\nMt Duneed Estate - Waurn Ponds Australia - 11/01/2020\r\n\r\nPaul Kelly in Thirteen Ways To Look At Birds - Launceston Australia - 16/01/2020\r\n\r\nScully Park - West Tamworth Australia - 19/01/2020\r\n\r\nStage 88 - Canberra Australia - 30/01/2020\r\n\r\nPaul Kelly in Thirteen Ways To Look At Birds - Perth Australia - 15/02/2020\r\n\r\nPaul Kelly in Thirteen Ways To Look At Birds - Mosman Australia - 28/02/2020\r\n\r\n-------------------------------------------\r\n\r\n\r\n"
+  - delay: 16
+    content: 'Jamess-MBP:liri-node-app James$ '
+  - delay: 6380
+    content: 'n'
+  - delay: 40
+    content: o
+  - delay: 64
+    content: d
+  - delay: 43
+    content: e
+  - delay: 1196
+    content: ' liri.js concert-this paul kelly'
+  - delay: 744
+    content: "\b\e[K"
+  - delay: 501
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 85
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 83
+    content: "\b\e[K"
+  - delay: 85
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 83
+    content: "\b\e[K"
+  - delay: 85
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 88
+    content: "\b\e[K"
+  - delay: 79
+    content: "\b\e[K"
+  - delay: 332
+    content: "\b\e[K"
+  - delay: 312
+    content: s
+  - delay: 104
+    content: p
+  - delay: 49
+    content: o
+  - delay: 118
+    content: t
+  - delay: 73
+    content: i
+  - delay: 128
+    content: f
+  - delay: 112
+    content: 'y'
+  - delay: 424
+    content: '-'
+  - delay: 161
+    content: t
+  - delay: 159
+    content: h
+  - delay: 55
+    content: i
+  - delay: 73
+    content: s
+  - delay: 184
+    content: '-'
+  - delay: 248
+    content: s
+  - delay: 120
+    content: o
+  - delay: 71
+    content: 'n'
+  - delay: 993
+    content: g
+  - delay: 368
+    content: ' '
+  - delay: 440
+    content: m
+  - delay: 119
+    content: r
+  - delay: 97
+    content: ' '
+  - delay: 168
+    content: d
+  - delay: 207
+    content: o
+  - delay: 281
+    content: b
+  - delay: 240
+    content: a
+  - delay: 295
+    content: l
+  - delay: 241
+    content: i
+  - delay: 55
+    content: 'n'
+  - delay: 193
+    content: a
+  - delay: 679
+    content: "\r\n"
+  - delay: 369
+    content: "\r\n Searching for track \"mr dobalina\" on Spotify...\r\n\r\n"
+  - delay: 1748
+    content: "-------------------------------------------\r\n\r\n            Spotify Track Search           \r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Steve Modana\r\nTrack: Mr. Dobalina - Radio Edit\r\nFrom Album: Mr. Dobalina\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/cae3488de3821d7486d1500a7c7bbc29e594cd57?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Steve Modana\r\nTrack: Mr. Dobalina - Original Mix\r\nFrom Album: Mr. Dobalina\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/0a3f77bd30dc5f3a5c27567ccfab6288a30237e9?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Steve Modana\r\nTrack: Mr. Dobalina - Carlprit Radio Edit\r\nFrom Album: Mr. Dobalina\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/361cfb5adc3aaab0f0816378f39410409887c431?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Steve Modana\r\nTrack: Mr. Dobalina - Sasha Dith Edit\r\nFrom Album: Mr. Dobalina\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/11c799b9a8878c3c8a42ef1fff00a8891bedd271?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Steve Modana\r\nTrack: Mr. Dobalina - Sasha Dith Remix\r\nFrom Album: Mr. Dobalina\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/fb6315b1ff53ef804895e59263a0687088845e92?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Steve Modana\r\nTrack: Mr. Dobalina - Carlprit Original Mix\r\nFrom Album: Mr. Dobalina\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/f2c39ff72ebb45c6710b908f8f230ac82e7588f9?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\n"
+  - delay: 9
+    content: 'Jamess-MBP:liri-node-app James$ '
+  - delay: 12034
+    content: 'n'
+  - delay: 50
+    content: o
+  - delay: 70
+    content: d
+  - delay: 43
+    content: e
+  - delay: 61
+    content: ' '
+  - delay: 31
+    content: l
+  - delay: 152
+    content: i
+  - delay: 105
+    content: r
+  - delay: 64
+    content: i
+  - delay: 200
+    content: .
+  - delay: 183
+    content: j
+  - delay: 105
+    content: s
+  - delay: 121
+    content: ' '
+  - delay: 2344
+    content: m
+  - delay: 46
+    content: o
+  - delay: 169
+    content: v
+  - delay: 63
+    content: i
+  - delay: 185
+    content: e
+  - delay: 128
+    content: '-'
+  - delay: 224
+    content: t
+  - delay: 176
+    content: h
+  - delay: 51
+    content: i
+  - delay: 93
+    content: s
+  - delay: 71
+    content: ' '
+  - delay: 305
+    content: t
+  - delay: 201
+    content: r
+  - delay: 87
+    content: u
+  - delay: 104
+    content: e
+  - delay: 144
+    content: ' '
+  - delay: 108
+    content: l
+  - delay: 147
+    content: i
+  - delay: 96
+    content: e
+  - delay: 57
+    content: s
+  - delay: 1120
+    content: "\r\n"
+  - delay: 654
+    content: "\r\nSearching for movie \"true lies\" on OMDB...\r\n\r\n-------------------------------------------\r\n\r\n             OMDB Movie Search             \r\n\r\n-------------------------------------------\r\n\r\n"
+  - delay: 183
+    content: "\e[?25l\e[32m?\e[39m \e[1mMultiple movies found, please choose which one:\e[22m\r\n\e[1m\e[22m\e[0m \e[0m\e[2m(Use arrow keys)\e[22m\r\n\e[36m❯ True Lies - 1994\e[39m \r\n  True Stories: Wikileaks - Secrets and Lies - 2011 \r\n  Remembrance of Things Fast: True Stories Visual Lies - 1994 \r\n  The Making of 'True Lies' - 1994 \r\n  The Pyjama Girl Mystery: A True Story of Murder, Obsession and Lies - 2006 \r\n  True Life Presents: Secrets, Lies, and Sex - 2013 \r\n  True Lies - 2008 \r\n\e[2m(Move up and down to reveal more choices)\e[22m\e[41D\e[41C"
+  - delay: 2231
+    content: "\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[G\e[32m?\e[39m \e[1mMultiple movies found, please choose which one:\e[22m\r\n\e[1m\e[22m\e[0m \e[0m\r\n  True Lies - 1994 \r\n\e[36m❯ True Stories: Wikileaks - Secrets and Lies - 2011\e[39m \r\n  Remembrance of Things Fast: True Stories Visual Lies - 1994 \r\n  The Making of 'True Lies' - 1994 \r\n  The Pyjama Girl Mystery: A True Story of Murder, Obsession and Lies - 2006 \r\n  True Life Presents: Secrets, Lies, and Sex - 2013 \r\n  True Lies - 2008 \r\n\e[2m(Move up and down to reveal more choices)\e[22m\e[41D\e[41C"
+  - delay: 653
+    content: "\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[G\e[32m?\e[39m \e[1mMultiple movies found, please choose which one:\e[22m\r\n\e[1m\e[22m\e[0m \e[0m\r\n  True Lies - 1994 \r\n  True Stories: Wikileaks - Secrets and Lies - 2011 \r\n\e[36m❯ Remembrance of Things Fast: True Stories Visual Lies - 1994\e[39m \r\n  The Making of 'True Lies' - 1994 \r\n  The Pyjama Girl Mystery: A True Story of Murder, Obsession and Lies - 2006 \r\n  True Life Presents: Secrets, Lies, and Sex - 2013 \r\n  True Lies - 2008 \r\n\e[2m(Move up and down to reveal more choices)\e[22m\e[41D\e[41C"
+  - delay: 186
+    content: "\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[G\e[32m?\e[39m \e[1mMultiple movies found, please choose which one:\e[22m\r\n\e[1m\e[22m\e[0m \e[0m\r\n  True Lies - 1994 \r\n  True Stories: Wikileaks - Secrets and Lies - 2011 \r\n  Remembrance of Things Fast: True Stories Visual Lies - 1994 \r\n\e[36m❯ The Making of 'True Lies' - 1994\e[39m \r\n  The Pyjama Girl Mystery: A True Story of Murder, Obsession and Lies - 2006 \r\n  True Life Presents: Secrets, Lies, and Sex - 2013 \r\n  True Lies - 2008 \r\n\e[2m(Move up and down to reveal more choices)\e[22m\e[41D\e[41C"
+  - delay: 143
+    content: "\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[G\e[32m?\e[39m \e[1mMultiple movies found, please choose which one:\e[22m\r\n\e[1m\e[22m\e[0m \e[0m\r\n  True Stories: Wikileaks - Secrets and Lies - 2011 \r\n  Remembrance of Things Fast: True Stories Visual Lies - 1994 \r\n  The Making of 'True Lies' - 1994 \r\n\e[36m❯ The Pyjama Girl Mystery: A True Story of Murder, Obsession and Lies - 2006\e[39m \r\n  True Life Presents: Secrets, Lies, and Sex - 2013 \r\n  True Lies - 2008 \r\n  True Lies 2 - 2008 \r\n\e[2m(Move up and down to reveal more choices)\e[22m\e[41D\e[41C"
+  - delay: 600
+    content: "\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[G\e[32m?\e[39m \e[1mMultiple movies found, please choose which one:\e[22m\r\n\e[1m\e[22m\e[0m \e[0m\r\n  Remembrance of Things Fast: True Stories Visual Lies - 1994 \r\n  The Making of 'True Lies' - 1994 \r\n  The Pyjama Girl Mystery: A True Story of Murder, Obsession and Lies - 2006 \r\n\e[36m❯ True Life Presents: Secrets, Lies, and Sex - 2013\e[39m \r\n  True Lies - 2008 \r\n  True Lies 2 - 2008 \r\n  True Lies 3 - 2008 \r\n\e[2m(Move up and down to reveal more choices)\e[22m\e[41D\e[41C"
+  - delay: 3096
+    content: "\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[G\e[32m?\e[39m \e[1mMultiple movies found, please choose which one:\e[22m\r\n\e[1m\e[22m\e[0m \e[0m\r\n  The Making of 'True Lies' - 1994 \r\n  The Pyjama Girl Mystery: A True Story of Murder, Obsession and Lies - 2006 \r\n  True Life Presents: Secrets, Lies, and Sex - 2013 \r\n\e[36m❯ True Lies - 2008\e[39m \r\n  True Lies 2 - 2008 \r\n  True Lies 3 - 2008 \r\n  True Lies - 1994 \r\n\e[2m(Move up and down to reveal more choices)\e[22m\e[41D\e[41C"
+  - delay: 192
+    content: "\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[G\e[32m?\e[39m \e[1mMultiple movies found, please choose which one:\e[22m\r\n\e[1m\e[22m\e[0m \e[0m\r\n  The Pyjama Girl Mystery: A True Story of Murder, Obsession and Lies - 2006 \r\n  True Life Presents: Secrets, Lies, and Sex - 2013 \r\n  True Lies - 2008 \r\n\e[36m❯ True Lies 2 - 2008\e[39m \r\n  True Lies 3 - 2008 \r\n  True Lies - 1994 \r\n  True Stories: Wikileaks - Secrets and Lies - 2011 \r\n\e[2m(Move up and down to reveal more choices)\e[22m\e[41D\e[41C"
+  - delay: 543
+    content: "\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[G\e[32m?\e[39m \e[1mMultiple movies found, please choose which one:\e[22m\r\n\e[1m\e[22m\e[0m \e[0m\r\n  True Life Presents: Secrets, Lies, and Sex - 2013 \r\n  True Lies - 2008 \r\n  True Lies 2 - 2008 \r\n\e[36m❯ True Lies 3 - 2008\e[39m \r\n  True Lies - 1994 \r\n  True Stories: Wikileaks - Secrets and Lies - 2011 \r\n  Remembrance of Things Fast: True Stories Visual Lies - 1994 \r\n\e[2m(Move up and down to reveal more choices)\e[22m\e[41D\e[41C"
+  - delay: 378
+    content: "\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[G\e[32m?\e[39m \e[1mMultiple movies found, please choose which one:\e[22m\r\n\e[1m\e[22m\e[0m \e[0m\r\n  True Lies - 2008 \r\n  True Lies 2 - 2008 \r\n  True Lies 3 - 2008 \r\n\e[36m❯ True Lies - 1994\e[39m \r\n  True Stories: Wikileaks - Secrets and Lies - 2011 \r\n  Remembrance of Things Fast: True Stories Visual Lies - 1994 \r\n  The Making of 'True Lies' - 1994 \r\n\e[2m(Move up and down to reveal more choices)\e[22m\e[41D\e[41C"
+  - delay: 1849
+    content: "\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[1A\e[2K\e[G\e[32m?\e[39m \e[1mMultiple movies found, please choose which one:\e[22m\r\n\e[1m\e[22m\e[0m \e[0m\e[36mTrue Lies - 1994\e[39m\e[17D\e[17C\r\n\e[?25h"
+  - delay: 31
+    content: "\r\nTitle: True Lies\r\nYear: 1994\r\n\r\nCountry: USA\r\nLanguage: English, French, Arabic, German\r\nActors: Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold, Bill Paxton\r\nPlot: A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used-car salesman while terrorists smuggle nuclear war heads into the United States.\r\n\r\nIMDB Rating: 7.2/10\r\nRotten Tomatoes Rating: 70%\r\n\r\n\e[?25h"
+  - delay: 8
+    content: 'Jamess-MBP:liri-node-app James$ '
+  - delay: 7669
+    content: node liri.js movie-this true lies
+  - delay: 1091
+    content: "\b\e[K"
+  - delay: 489
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 85
+    content: "\b\e[K"
+  - delay: 82
+    content: "\b\e[K"
+  - delay: 85
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 85
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 83
+    content: "\b\e[K"
+  - delay: 85
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 83
+    content: "\b\e[K"
+  - delay: 85
+    content: "\b\e[K"
+  - delay: 82
+    content: "\b\e[K"
+  - delay: 83
+    content: "\b\e[K"
+  - delay: 84
+    content: "\b\e[K"
+  - delay: 240
+    content: "\b\e[K"
+  - delay: 552
+    content: d
+  - delay: 135
+    content: o
+  - delay: 273
+    content: '-'
+  - delay: 159
+    content: w
+  - delay: 169
+    content: h
+  - delay: 120
+    content: a
+  - delay: 103
+    content: t
+  - delay: 97
+    content: '-'
+  - delay: 296
+    content: i
+  - delay: 167
+    content: t
+  - delay: 721
+    content: '-'
+  - delay: 376
+    content: s
+  - delay: 96
+    content: a
+  - delay: 80
+    content: 'y'
+  - delay: 120
+    content: s
+  - delay: 1327
+    content: "\r\n"
+  - delay: 376
+    content: "\r\n Searching for track \"wuthering heights\" on Spotify...\r\n\r\n"
+  - delay: 1305
+    content: "-------------------------------------------\r\n\r\n            Spotify Track Search           \r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Kate Bush\r\nTrack: Wuthering Heights\r\nFrom Album: The Kick Inside\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/3aaf3ec1603f1f8c9a8b2c5925bcff0319790a5b?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Pat Benatar\r\nTrack: Wuthering Heights\r\nFrom Album: Crimes Of Passion\r\nSpotify Preview URL: null\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Kate Bush\r\nTrack: Wuthering Heights - 2018 Remaster\r\nFrom Album: The Kick Inside (2018 Remaster)\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/0e802578b7d27d022266ed767d302ea9d6ce4cf9?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): EURINGER\r\nTrack: Wuthering Heights\r\nFrom Album: EURINGER\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/3118be439fc65852dfdb1b3af709676d236c5c42?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Angra\r\nTrack: Wuthering Heights\r\nFrom Album: Angels Cry / Holy Land\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/b5ae5f8d57429650682cb9fe9e748b9918c60f44?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Ryuichi Sakamoto\r\nTrack: The Wuthering Heights\r\nFrom Album: 1996\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/35d5acc53bde7d92a0a0c3b7b2b12ce47362c39b?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): The Puppini Sisters\r\nTrack: Wuthering Heights\r\nFrom Album: Betcha Bottom Dollar\r\nSpotify Preview URL: null\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Lucia\r\nTrack: Wuthering Heights\r\nFrom Album: Fantasy Pieces op.2 <ARIA>\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/ceaba7a0d700d52c12020433488c3297c891426c?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Piano Peace\r\nTrack: Wuthering Heights\r\nFrom Album: Piano Music for Reading\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/000afec9f359492beb20f177e05214a20a71be90?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Kate Bush\r\nTrack: Wuthering Heights\r\nFrom Album: Classical Guilty Pleasures\r\nSpotify Preview URL: null\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Angra\r\nTrack: Wuthering Heights\r\nFrom Album: Angels Cry\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/0723a6ae8dcf6cf6d513aca76a7b25d435290924?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Natasha Hemmings\r\nTrack: Wuthering Heights\r\nFrom Album: My Valentine EP\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/642588fef15076b5e0a38466eec1b372ef06b076?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Ruth Barrett\r\nTrack: I Found Peace\r\nFrom Album: Wuthering Heights\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/e9ab7480e0e877fcee1948cd6b1acc7ddf1112fc?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Pat Benatar\r\nTrack: Wuthering Heights - Remastered\r\nFrom Album: Synchronistic Wanderings\r\nSpotify Preview URL: null\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Karliene\r\nTrack: Wuthering Heights\r\nFrom Album: Wuthering Heights\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/70535d80a0abc955247abb1e23a1f2ecaac60aaa?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Ruth Barrett\r\nTrack: Kids In Love\r\nFrom Album: Wuthering Heights\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/57ebc1f1496934987dc0bc9d5e973bf630f085fd?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Ruth Barrett\r\nTrack: Lovers\r\nFrom Album: Wuthering Heights\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/d0e9d4bfa9866642114e62323312b475314b8d14?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Pat Benatar\r\nTrack: Wuthering Heights\r\nFrom Album: The Collection\r\nSpotify Preview URL: null\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Ruth Barrett\r\nTrack: She's a Savage\r\nFrom Album: Wuthering Heights\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/0e6a3bbb92681902072cf7dc9e95e8c2c04c8243?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\nArtist(s): Ferrara\r\nTrack: Love Attack\r\nFrom Album: Wuthering Heights\r\nSpotify Preview URL: https://p.scdn.co/mp3-preview/1b065e0bf97f07e04196b657b0c46970105b908e?cid=6ea88313affc4e50a3b64b0d1f5f3173\r\n\r\n-------------------------------------------\r\n\r\n"
+  - delay: 10
+    content: 'Jamess-MBP:liri-node-app James$ '
+  - delay: 20539
+    content: "logout\r\n"
