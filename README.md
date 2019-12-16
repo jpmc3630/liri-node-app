@@ -7,12 +7,18 @@ LIRI BOT is a CLI node app that can search Spotify for songs, Bands in Town for 
 Please include an insruction followed by a query. 
 For example to use at command line type:
 
-**node liri.js `<instruction> <query>`**
+**node liri.js `<instruction>` `<query>`**
 
   concert-this `<artist or band>`<br>
+  searches Bandsintown API for upcoming events featuring this artist and displays venue, location and date information.
+  <br><br>
   spotify-this-song `<song title>`<br>
+  searches Spotify API and returns information and preview link about the user's song title query
+  <br><Br>
   movie-this `<movie title>`<br>
+  searches OMDB API and returns movie information about the user's queried movie title.
   do-what-it-says <br>
+  
 
 do-what-it-says instruction reads instruction and query from the editable default.txt file, in this format:<br>
     spotify-this-song,"wuthering heights"
