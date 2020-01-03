@@ -1,4 +1,7 @@
 # LIRI BOT Node App
+
+The GIF below gives a quick demo of the app. <a href="https://terminalizer.com/view/8d9ab5da2625">If you would prefer a web player video of this demo click here.</a>
+
 ![LIRI-BOT demo gif](demo/LIRIdemo.gif)
 
 LIRI BOT is a CLI node app that can search Spotify for songs, Bands in Town for concerts, and OMDB for movies, and provide concise results.
